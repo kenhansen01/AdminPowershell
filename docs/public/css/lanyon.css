@@ -489,6 +489,13 @@ a.pagination-item:hover {
   color: #90a959;
 }
 
+.theme-base-0b .sidebar-toggle:active:before,
+.theme-base-0b #sidebar-checkbox:focus ~ .sidebar-toggle:before,
+.theme-base-0b #sidebar-checkbox:checked ~ .sidebar-toggle:before {
+  background-image:         linear-gradient(to bottom, #fff, #fff 20%, #90a959 20%, #90a959 40%, #fff 40%, #fff 60%, #90a959 60%, #90a959 80%, #fff 80%, #fff 100%);
+}
+
+
 /* Cyan */
 .theme-base-0c .sidebar,
 .theme-base-0c .sidebar-toggle:active,
