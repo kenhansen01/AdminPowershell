@@ -1,4 +1,4 @@
-remote_theme: poole/hyde
+remote_theme: poole/lanyon
 title: Administratative Powershell
 description: Scripts and functions that I use fairly often.
 show_downloads: true
