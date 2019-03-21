@@ -452,6 +452,11 @@ a.pagination-item:hover {
 .theme-base-08 .related-posts li a:hover {
   color: #ac4142;
 }
+.theme-base-08 .sidebar-toggle:active:before,
+.theme-base-08 #sidebar-checkbox:focus ~ .sidebar-toggle:before,
+.theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle:before {
+  background-image: linear-gradient(to bottom, #fff, #fff 20%, #ac4142 20%, #ac4142 40%, #fff 40%, #fff 60%, #ac4142 60%, #ac4142 80%, #fff 80%, #fff 100%);
+}
 
 /* Orange */
 .theme-base-09 .sidebar,
@@ -463,6 +468,11 @@ a.pagination-item:hover {
 .theme-base-09 .sidebar-toggle,
 .theme-base-09 .related-posts li a:hover {
   color: #d28445;
+}
+.theme-base-09 .sidebar-toggle:active:before,
+.theme-base-09 #sidebar-checkbox:focus ~ .sidebar-toggle:before,
+.theme-base-09 #sidebar-checkbox:checked ~ .sidebar-toggle:before {
+  background-image: linear-gradient(to bottom, #fff, #fff 20%, #d28445 20%, #d28445 40%, #fff 40%, #fff 60%, #d28445 60%, #d28445 80%, #fff 80%, #fff 100%);
 }
 
 /* Yellow */
@@ -476,6 +486,11 @@ a.pagination-item:hover {
 .theme-base-0a .related-posts li a:hover {
   color: #f4bf75;
 }
+.theme-base-0a .sidebar-toggle:active:before,
+.theme-base-0a #sidebar-checkbox:focus ~ .sidebar-toggle:before,
+.theme-base-0a #sidebar-checkbox:checked ~ .sidebar-toggle:before {
+  background-image: linear-gradient(to bottom, #fff, #fff 20%, #f4bf75 20%, #f4bf75 40%, #fff 40%, #fff 60%, #f4bf75 60%, #f4bf75 80%, #fff 80%, #fff 100%);
+}
 
 /* Green */
 .theme-base-0b .sidebar,
@@ -488,11 +503,10 @@ a.pagination-item:hover {
 .theme-base-0b .related-posts li a:hover {
   color: #90a959;
 }
-
 .theme-base-0b .sidebar-toggle:active:before,
 .theme-base-0b #sidebar-checkbox:focus ~ .sidebar-toggle:before,
 .theme-base-0b #sidebar-checkbox:checked ~ .sidebar-toggle:before {
-  background-image:         linear-gradient(to bottom, #fff, #fff 20%, #90a959 20%, #90a959 40%, #fff 40%, #fff 60%, #90a959 60%, #90a959 80%, #fff 80%, #fff 100%);
+  background-image: linear-gradient(to bottom, #fff, #fff 20%, #90a959 20%, #90a959 40%, #fff 40%, #fff 60%, #90a959 60%, #90a959 80%, #fff 80%, #fff 100%);
 }
 
 
@@ -507,6 +521,11 @@ a.pagination-item:hover {
 .theme-base-0c .related-posts li a:hover {
   color: #75b5aa;
 }
+.theme-base-0c .sidebar-toggle:active:before,
+.theme-base-0c #sidebar-checkbox:focus ~ .sidebar-toggle:before,
+.theme-base-0c #sidebar-checkbox:checked ~ .sidebar-toggle:before {
+  background-image: linear-gradient(to bottom, #fff, #fff 20%, #75b5aa 20%, #75b5aa 40%, #fff 40%, #fff 60%, #75b5aa 60%, #75b5aa 80%, #fff 80%, #fff 100%);
+}
 
 /* Blue */
 .theme-base-0d .sidebar,
@@ -518,6 +537,11 @@ a.pagination-item:hover {
 .theme-base-0d .sidebar-toggle,
 .theme-base-0d .related-posts li a:hover {
   color: #6a9fb5;
+}
+.theme-base-0d .sidebar-toggle:active:before,
+.theme-base-0d #sidebar-checkbox:focus ~ .sidebar-toggle:before,
+.theme-base-0d #sidebar-checkbox:checked ~ .sidebar-toggle:before {
+  background-image: linear-gradient(to bottom, #fff, #fff 20%, #6a9fb5 20%, #6a9fb5 40%, #fff 40%, #fff 60%, #6a9fb5 60%, #6a9fb5 80%, #fff 80%, #fff 100%);
 }
 
 /* Magenta */
@@ -531,6 +555,11 @@ a.pagination-item:hover {
 .theme-base-0e .related-posts li a:hover {
   color: #aa759f;
 }
+.theme-base-0e .sidebar-toggle:active:before,
+.theme-base-0e #sidebar-checkbox:focus ~ .sidebar-toggle:before,
+.theme-base-0e #sidebar-checkbox:checked ~ .sidebar-toggle:before {
+  background-image: linear-gradient(to bottom, #fff, #fff 20%, #aa759f 20%, #aa759f 40%, #fff 40%, #fff 60%, #aa759f 60%, #aa759f 80%, #fff 80%, #fff 100%);
+}
 
 /* Brown */
 .theme-base-0f .sidebar,
@@ -542,6 +571,11 @@ a.pagination-item:hover {
 .theme-base-0f .sidebar-toggle,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+.theme-base-0f .sidebar-toggle:active:before,
+.theme-base-0f #sidebar-checkbox:focus ~ .sidebar-toggle:before,
+.theme-base-0f #sidebar-checkbox:checked ~ .sidebar-toggle:before {
+  background-image: linear-gradient(to bottom, #fff, #fff 20%, #8f5536 20%, #8f5536 40%, #fff 40%, #fff 60%, #8f5536 60%, #8f5536 80%, #fff 80%, #fff 100%);
 }
 
 
