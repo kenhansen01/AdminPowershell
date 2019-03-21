@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: hyde
 title: Administratative Powershell
 description: Scripts and functions that I use fairly often.
 show_downloads: true
