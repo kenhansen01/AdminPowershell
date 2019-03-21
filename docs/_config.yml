@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
+title: Administratative Powershell
+description: Scripts and functions that I use fairly often.
+show_downloads: true
