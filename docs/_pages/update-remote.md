@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: mixer
 title: Update-Remote
+permalink: /update-remote/
 ---
 [Update-Remote](https://github.com/kenhansen01/AdminPowershell/blob/master/Update-Remote.ps1)
 
