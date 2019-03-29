@@ -20,7 +20,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # "/assets/images/frosting.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/frosting.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Frosting!" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -80,7 +80,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # "/assets/images/headband-ken.jpg"
+og_image                 : "/assets/images/headband-ken.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -95,7 +95,25 @@ analytics:
     tracking_id          :
 
 
-
+# Site Author
+author:
+  name             : "Ken Hansen"
+  avatar           : "/assets/images/headband-ken.jpg"
+  bio              : "I do computers."
+  location         : "Somewhere"
+  links:
+    - label: "My Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://kenhansen01.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/woowh0"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kenhansen01"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 
 # Site Footer
