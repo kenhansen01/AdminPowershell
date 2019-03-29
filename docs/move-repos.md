@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: mixer
 title: Move-Repos
+permalink: /move-repos/
 ---
 
 [Move-Repos](https://github.com/kenhansen01/AdminPowershell/blob/master/Move-Repos.ps1)
