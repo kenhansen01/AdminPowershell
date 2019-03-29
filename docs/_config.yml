@@ -16,7 +16,7 @@ title                    : "Administratative Powershell"
 title_separator          : "-"
 name                     : "Ken Hansen"
 description              : "Scripts and functions that I use fairly often."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kenhansen01.github.io" # the base hostname & protocol for your site
 baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
