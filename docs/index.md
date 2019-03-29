@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: buttercream
+title: Admin Powershell
+author_profile: true
 ---
 
 [Admin Powershell](https://github.com/kenhansen01/AdminPowershell)
