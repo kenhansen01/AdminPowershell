@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: mixer
 title: Initialize-ExistingSearchInstance
+permalink: /initialize-existingsearchinstance/
 ---
 
 [Initialize-ExistingSearchInstance](https://github.com/kenhansen01/AdminPowershell/blob/master/Initialize-ExistingSearchInstance.ps1)
