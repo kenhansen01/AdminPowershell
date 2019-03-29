@@ -1,0 +1,12 @@
+# main links links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Close-ServerSessions"
+    url: /close-serversession/
+  - title: "Move-Repos"
+    url: /move-repos/
+  - title: "Update-Remote"
+    url: /update-remote/
+  - title: "Initialize-ExistingSearchInstance"
+    url: /initialize-existingsearchinstance/
