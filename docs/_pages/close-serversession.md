@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: mixer
 title: Close-ServerSession
+permalink: /close-serversession/
 ---
 
 [Close-ServerSession](https://github.com/kenhansen01/AdminPowershell/blob/master/Close-ServerSession.ps1)
